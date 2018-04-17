@@ -1,0 +1,13 @@
+<paradas>
+<parada>
+<codigo></codigo>
+<direccion></direccion>
+<latitud></latitud>
+<longitud></longitud>
+<autobuses>
+<linea></linea>
+<linea></linea>
+<linea></linea>
+</autobuses>
+</parada>
+</paradas>
